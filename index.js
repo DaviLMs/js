@@ -13,6 +13,8 @@ function viraAzul(){
     let div = document.getElementById("teste");
     div.style.backgroundColor = "blue";
 }
+
 function Limpatexto(){
-    document.getElementById("campoTexto").value = "";
+document.getElementById("campoTexto").value = "";
+
 }
